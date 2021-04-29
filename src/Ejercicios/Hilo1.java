@@ -6,4 +6,5 @@ public class Hilo1 extends Thread{
 			System.out.println(x);
 		}
 	}
+	
 }
